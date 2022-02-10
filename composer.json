@@ -1,6 +1,6 @@
 {
-    "name": "codefresh-contrib/php-composer-sample-app",
-    "description": "Example php project for Codefresh pipelines",
+    "name": "PHP composer app",
+    "description": "Example php pipeline for Codefresh pipelines",
     "type": "project",
     "require": {
         "monolog/monolog": "^1.24",
@@ -8,8 +8,8 @@
     },
     "authors": [
         {
-            "name": "Kostis Kapelonis",
-            "email": "kostis@codefresh.io"
+            "name": "Nilesh",
+            "email": "nilesh.date@globant.com"
         }
     ]
 }
